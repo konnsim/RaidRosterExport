@@ -62,3 +62,7 @@ PlayerTwo-Realm,PRIEST,1
 ```
 
 Players are sorted by group, then by player name.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
