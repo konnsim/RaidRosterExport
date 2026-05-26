@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: Raid Roster Export
+## Notes: Exports current raid/party roster as copyable CSV for attendance tracking.
+## Author: Emnyo
+## Version: 1.0.0
+## SavedVariables:
+
+RaidRosterExport.lua
